@@ -1,3 +1,5 @@
+# Data Analysis of Ford Go Bike Data
+
 # Project Table of Contents : 
 * Introduction of the topic and dataset
 * Dataset Investigation and preliminary wrangling
@@ -36,4 +38,3 @@ Since the trip duration has a close relationship with bike share company's reven
 trip duration. It turns out that Weather does not have a big effect on the trip duration but user type does have an impact on trip duration. According the analysis, I found subscribers tend to rend the bikes for longer trips ( generally above 300 minutes ). One possible way to increase revenue is to attract more potential customers and convert more exiting customers to subscribers.  
 
 
-"# Data_Analysis_Ford_Go_Bike_Data" 
